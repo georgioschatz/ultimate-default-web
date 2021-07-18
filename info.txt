@@ -1,4 +1,4 @@
-Tshis is a critical message that I'm going to ammend into the previous commit along with this new file. asdasdasdasdas
+wTshis is a critical message that I'm going to ammend into the previous commit along with this new file. asdasdasdasdas
 
 Commit #2 during squash activity
 
