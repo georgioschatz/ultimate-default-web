@@ -5,7 +5,7 @@ Commit #2 during squash activit
 
 Commit #3 during squash activit
 
-Commit #4 during squash activity
+Commit #4 during squash activit
 
 Commit #5 during squash activity
 
